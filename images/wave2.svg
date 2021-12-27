@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1373.832" height="800.664" viewBox="0 0 1373.832 800.664">
-  <defs>
-    <style>
-      .cls-1 {
-        opacity: 0.35;
-        fill: url(#linear-gradient);
-      }
-    </style>
-    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#79a3b1" stop-opacity="0.322"/>
-      <stop offset="1" stop-color="#e9e9e9"/>
-    </linearGradient>
-  </defs>
-  <g id="wave2" transform="translate(6.401 -3796.915)">
-    <path id="wave2-2" data-name="wave2" class="cls-1" d="M1815.478,163.741s-100.977,31.107-134.149,72.435c-153.427,158.4-20.8,335.054-168.4,362.814s-53.9,194.318-182.663,176.653-110.85,34.268-176.671,39.944c-49.234,4.566-134.258,5.733-200.632,33.241S845.729,957.717,845.729,957.717,382.224,962.6,448.048,962.6H1681.329c65.824,0,134.462,4.062,133.666,0-.483-57.161.483-298.756.483-298.756s-.128-233.326,0-391.5C1813.1,206.85,1815.478,163.741,1815.478,163.741Z" transform="translate(-448.048 3633.174)"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1373.832" height="800.664" viewBox="0 0 1373.832 800.664"><defs><style>.cls-1{opacity:.35;fill:url(#linear-gradient)}</style><linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#79a3b1" stop-opacity=".322"/><stop offset="1" stop-color="#e9e9e9"/></linearGradient></defs><g id="wave2" transform="translate(6.401 -3796.915)"><path id="wave2-2" d="M1815.478,163.741s-100.977,31.107-134.149,72.435c-153.427,158.4-20.8,335.054-168.4,362.814s-53.9,194.318-182.663,176.653-110.85,34.268-176.671,39.944c-49.234,4.566-134.258,5.733-200.632,33.241S845.729,957.717,845.729,957.717,382.224,962.6,448.048,962.6H1681.329c65.824,0,134.462,4.062,133.666,0-.483-57.161.483-298.756.483-298.756s-.128-233.326,0-391.5C1813.1,206.85,1815.478,163.741,1815.478,163.741Z" class="cls-1" data-name="wave2" transform="translate(-448.048 3633.174)"/></g></svg>
